@@ -1,6 +1,6 @@
-# NumericalComputations
-This repository contains a set of functions implementing numerical computational methods
+# MiscellaneousCodes
 
-## FiniteDiff
-This function computes the derivative of the input vector using finite difference schemes (by default the order is set to 4 but can be reduced to 2 if needed).
-version 0.0 - 21th May 2021
+This repository contains miscellaneous code I developed for multiple purposes in motor control research 
+
+- Data processing
+**inspect_sleap_open_arena.py** this code opens and generates very simple figures for the input of a h5 file generated after sleap training
