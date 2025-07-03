@@ -1,6 +1,9 @@
 # MiscellaneousCodes
 
-This repository contains miscellaneous code I developed for multiple purposes in motor control research 
+This repository contains miscellaneous code I developed for multiple purposes in motor control research. This is intended for personal usage but feel free to use any function or piece of code for your own research. 
+
+
+
 
 - Data processing
 
