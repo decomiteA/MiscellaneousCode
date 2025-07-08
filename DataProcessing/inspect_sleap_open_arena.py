@@ -26,7 +26,7 @@ plt.tight_layout()
 fig, axs = plt.subplots(1,1,figsize=(3,3))
 axs.spines[['top','right']].set_visible(False)
 for ii in range(occupancy_matrix.shape[1]):
-    axs.plot(tmp[0,ii,:],lw=1)
+    axs.plot(occupancy_matrix[0,ii,:],lw=1)
 axs.set_ylabel('x-position'), axs.set_xlabel('time')
 plt.tight_layout()
 
